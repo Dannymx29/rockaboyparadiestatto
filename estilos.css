@@ -1,5 +1,5 @@
-.text-resaltado{
-    color: red !important;
+.text-resaltado a{
+    color: rgb(245, 89, 245) !important;
 }
 #header img {
     width: 80px;
