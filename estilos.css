@@ -1,3 +1,9 @@
+.text-resaltado{
+    color: red !important;
+}
+#header img {
+    width: 80px;
+}
 #footer{
     background: #03091e;
 }
