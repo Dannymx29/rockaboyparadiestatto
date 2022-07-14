@@ -28,6 +28,10 @@
     background-color: rgba(0,0,0,0.5);
     color: white;
 }
+#carousel .overlay a
+{
+    color: white;
+}
 #carousel .overlay .container,
 #carousel .overlay .row
 {
