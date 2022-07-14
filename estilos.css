@@ -31,3 +31,9 @@
 .btn-edicion:hover{
     background-color: rgb(151, 52, 151);
 }
+.text-resaltado a{
+    color: rgb(245, 89, 245) !important;
+}
+#header img {
+    width: 80px;
+}
