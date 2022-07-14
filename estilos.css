@@ -1,10 +1,10 @@
-.text-resaltado a
-{
-    color: rgb(245, 89, 245) !important;
-}
 #header img 
 {
     width: 80px;
+}
+.text-resaltado a
+{
+    color: rgb(245, 89, 245) !important;
 }
 #main .carousel-inner img
 {
