@@ -1,6 +1,6 @@
 #main .carousel-inner img
 {
-    max-height: 70vh;
+    max-height: 75vh;
     object-fit: cover;
     filter: grayscale(50%);
 }
@@ -10,11 +10,24 @@
 }
 #carousel .overlay 
 {
+    z-index: 1;
+    filter: opacity(100%);
     position: absolute;
     top: 0;
     bottom: 0;
     left: 0;
     right: 0;
     background-color: rgba(0,0,0,0.5);
-    color: blue;
+    color: white;
+}
+#carousel .overlay .container,
+#carousel .overlay .row
+{
+    height: 100%;
+}
+.btn-edicion{
+    background-color: rgb(226, 79, 226);
+}
+.btn-edicion:hover{
+    background-color: rgb(151, 52, 151);
 }
