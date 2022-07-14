@@ -1,3 +1,11 @@
+.text-resaltado a
+{
+    color: rgb(245, 89, 245) !important;
+}
+#header img 
+{
+    width: 80px;
+}
 #main .carousel-inner img
 {
     max-height: 75vh;
@@ -25,15 +33,20 @@
 {
     height: 100%;
 }
-.btn-edicion{
+.btn-edicion
+{
     background-color: rgb(226, 79, 226);
 }
-.btn-edicion:hover{
+.btn-edicion:hover
+{
     background-color: rgb(151, 52, 151);
 }
-.text-resaltado a{
-    color: rgb(245, 89, 245) !important;
+
+#footer
+{
+    background: #03091e;
 }
-#header img {
-    width: 80px;
+#footer a
+{
+    color: white;
 }
