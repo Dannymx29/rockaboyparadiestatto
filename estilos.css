@@ -4,7 +4,7 @@
 }
 .text-resaltado a
 {
-    color: rgb(245, 89, 245) !important;
+    color: #C36CE6 !important;
 }
 #main .carousel-inner img
 {
@@ -31,6 +31,7 @@
 #carousel .overlay a
 {
     color: white;
+    text-decoration: none;
 }
 #carousel .overlay .container,
 #carousel .overlay .row
@@ -39,13 +40,16 @@
 }
 .btn-edicion
 {
-    background-color: rgb(226, 79, 226);
+    background-color: #C36CE6;
 }
 .btn-edicion:hover
 {
-    background-color: rgb(151, 52, 151);
+    background-color: #b35bd6;
 }
-
+#carousel .overlay .container .referencias:hover
+{
+    color: black;
+}
 #footer
 {
     background: #03091e;
